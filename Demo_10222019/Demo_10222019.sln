@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3", "Problem3\Problem3.csproj", "{3EF4AC6E-6668-4E77-A846-830C1F8290DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4", "Problem4\Problem4.csproj", "{8AE76AF5-3234-4BC0-831D-85C199102D85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5", "Problem5\Problem5.csproj", "{F9321CD2-16AE-4DC9-B435-F85F51D4DF29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF4AC6E-6668-4E77-A846-830C1F8290DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF4AC6E-6668-4E77-A846-830C1F8290DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF4AC6E-6668-4E77-A846-830C1F8290DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF4AC6E-6668-4E77-A846-830C1F8290DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE76AF5-3234-4BC0-831D-85C199102D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE76AF5-3234-4BC0-831D-85C199102D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE76AF5-3234-4BC0-831D-85C199102D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE76AF5-3234-4BC0-831D-85C199102D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9321CD2-16AE-4DC9-B435-F85F51D4DF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9321CD2-16AE-4DC9-B435-F85F51D4DF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9321CD2-16AE-4DC9-B435-F85F51D4DF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9321CD2-16AE-4DC9-B435-F85F51D4DF29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ADE0170-67CF-4ABA-94DA-27E7C444DDE9}
+	EndGlobalSection
+EndGlobal
